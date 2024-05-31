@@ -19,7 +19,7 @@ Atividade da +prati: Módulo 02 - Lista de Exercícios 02
 ## :rocket: Começando
   
   # Clonar o projeto:
-  $ git clone https://github.com/gscoimbra/Lista_de_Exercicios01.git
+  $ git clone https://github.com/gscoimbra/Lista_de_Exercicios02.git
 
   # Entrar no diretório do projeto:
   $ cd Lista_de_Exercicios01
